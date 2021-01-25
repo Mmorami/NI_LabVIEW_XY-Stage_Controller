@@ -1,4 +1,4 @@
-#LabVIEW XY-Stage Controller
+# LabVIEW XY-Stage Controller
 LabVIEW is systems engineering software for applications that require test, measurement, and control with access to hardware.<br>
 This LabVIEW program allow control over an xy-stage with basic functionalities such as intiating motors, home search, move to a specified absolute position, abort execution and more.<br>
 The program's heart is its ability to create network-shapes easily with a simple GUI that shows the expected output on a graph in real time.
